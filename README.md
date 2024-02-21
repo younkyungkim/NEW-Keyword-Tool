@@ -37,6 +37,8 @@
       - 실시간으로 인식한 회의 내용 전체를 회의록 포맷에 맞춰 회의로 작성(gpt-3.5-turbo)
 
 시연영상 아래 이미지 클릭
+
+
 [![NEW-KT 웹서비스 시연 영상](https://img.youtube.com/vi/S60u_tlDg_I/0.jpg)](https://youtu.be/S60u_tlDg_I)
 
 <!--
