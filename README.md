@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![image](https://github.com/younkyungkim/NEW-Keyword-Tool/assets/141793731/92d00538-2550-466e-9c1e-8389b12378d8)
-[![https://github.com/younkyungkim/NEW-Keyword-Tool/assets/141793731/92d00538-2550-466e-9c1e-8389b12378d8](https://www.youtube.com/watch?v=S60u_tlDg_I&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=S60u_tlDg_I&feature=youtu.be)
+[!(https://www.youtube.com/watch?v=S60u_tlDg_I&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=S60u_tlDg_I&feature=youtu.be)
 <iframe width="910" height="512" src="https://www.youtube.com/embed/S60u_tlDg_I" title="NEW-KT 웹서비스 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!--
 **younkyungkim/younkyungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
