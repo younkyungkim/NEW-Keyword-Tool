@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![image](https://github.com/younkyungkim/NEW-Keyword-Tool/assets/141793731/92d00538-2550-466e-9c1e-8389b12378d8)
-[![NEW-KT 웹서비스 시연 영상](https://img.youtube.com/vi/S60u_tlDg_I/0.jpg)](https://www.youtube.be/S60u_tlDg_I&feature=youtu.be)
-https://youtu.be/S60u_tlDg_I
+[![NEW-KT 웹서비스 시연 영상](https://img.youtube.com/vi/S60u_tlDg_I/0.jpg)](https://youtu.be/S60u_tlDg_I)
+
 <!--
 **younkyungkim/younkyungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
